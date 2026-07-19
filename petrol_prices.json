@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "last_updated": "2026-07-19 18:24:45 PKT",
+    "currency": "PKR",
+    "fuels": [
+        {
+            "type": "Petrol (Premier Euro 5)",
+            "price": 316.15,
+            "unit": "Litre"
+        },
+        {
+            "type": "Hi-Cetane Diesel",
+            "price": 354.35,
+            "unit": "Litre"
+        }
+    ]
+}
