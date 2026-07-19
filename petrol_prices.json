@@ -1,6 +1,6 @@
 {
-    "status": "success",
-    "last_updated": "2026-07-19 18:24:45 PKT",
+    "status": "fallback",
+    "last_updated": "2026-07-19 18:26:39 PKT",
     "currency": "PKR",
     "fuels": [
         {
@@ -9,9 +9,24 @@
             "unit": "Litre"
         },
         {
-            "type": "Hi-Cetane Diesel",
+            "type": "Hi-Cetane Diesel Euro 5",
             "price": 354.35,
             "unit": "Litre"
+        },
+        {
+            "type": "Light Diesel Oil (LDO)",
+            "price": 230.67,
+            "unit": "Litre"
+        },
+        {
+            "type": "Kerosene Oil (SKO)",
+            "price": 276.66,
+            "unit": "Litre"
+        },
+        {
+            "type": "LPG",
+            "price": 241.43,
+            "unit": "KG"
         }
     ]
 }
